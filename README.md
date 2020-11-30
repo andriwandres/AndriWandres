@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Andri, I am a software Engineer in Zürich, Switzerland.
-I usually work in the web development industry, where I am strongly interested in the following technologies:
+I usually work in the web development industry.
 
 
 <!--
