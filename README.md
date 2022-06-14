@@ -36,7 +36,3 @@ These are some of the technologies that I love working with:
 <img height="50" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png">&nbsp;
 </div>
 
-[![AndriWandres' github stats](https://github-readme-stats.vercel.app/api?username=AndriWandres&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriWandres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
